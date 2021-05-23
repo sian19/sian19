@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<H4>I am a front end developer and I am looking for constant evolution, to improve my skills in web and mobile programming, where study and practice is the fuel for success.</h4>
+
