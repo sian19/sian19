@@ -43,4 +43,8 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="35" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
+ 
+ ## Stats:
+ [![Sean GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
