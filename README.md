@@ -34,3 +34,4 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="35" style="max-width: 100%;"></img>
+ <img src="https://s.gravatar.com/avatar/4570e88621a9310ccde6477f33629c28?size=496&default=retro" width="45" height="35" style="max-width: 100%;"></img>
