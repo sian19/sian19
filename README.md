@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/sean-taron" target="_blank">
-<img align= "center" alt="Sean-Linkedln" height="30" width="40" src=""
+<img align= "center" alt="Sean-Linkedln" height="30" width="40" src="https://www.linkedin.com/in/sean-taron/"
 
