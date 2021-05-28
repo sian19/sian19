@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/sean-taron" target="_blank">
-<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"
 </a>
  
 <a href="https://www.facebook.com/sean.taron.9" target="_blank">
-<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
+<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;"
 </a>  
 
 <a href="https://www.instagram.com/sean.taron.9/" target="_blank">
-<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"
 </a>  
