@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </a> 
  
 ## languages and skills I work on currently developing
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="30"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40"></img>
