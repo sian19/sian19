@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <H4>I am a front end developer and I am looking for constant evolution, to improve my skills in web and mobile programming, where study and practice is the fuel for success :computer:.</h4>
 
-<H3>Connect with me</H3>
+## Connect with me
 <a href="https://www.linkedin.com/in/sean-taron" target="_blank">
 <img align= "center" alt="Sean-Linkedln" height="30" width="40" src=""
 
