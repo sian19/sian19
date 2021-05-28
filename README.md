@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/sean.taron.9/" target="_blank">
 <img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"
-</a>  
+</a> 
+ 
+## languages and skills I work on currently developing
