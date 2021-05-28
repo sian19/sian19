@@ -32,3 +32,4 @@ Here are some ideas to get you started:
  
 ## languages and skills I work on currently developing
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
