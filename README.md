@@ -30,10 +30,13 @@ Here are some ideas to get you started:
 <img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"
 </a> 
  
-## languages and skills I work on currently developing
+## languages and skills I work on currently developing:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="35" style="max-width: 100%;"></img>
  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="40" height="37" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" style="max-width: 100%;"></img>
+ 
+ ## Interested in:
+ 
