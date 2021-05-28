@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<H4>I am a front end developer and I am looking for constant evolution, to improve my skills in web and mobile programming, where study and practice is the fuel for success.</h4>
+<H4>I am a front end developer and I am looking for constant evolution, to improve my skills in web and mobile programming, where study and practice is the fuel for success :computer:.</h4>
 <H3>Connect with me</H3>
 <a href="https://www.linkedin.com/in/sean-taron" target="_blank">
 
