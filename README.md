@@ -36,3 +36,4 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="35" style="max-width: 100%;"></img>
  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="40" height="37" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="40" style="max-width: 100%;"></img>
+ <img src="https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png" width="50" height="40" style="max-width: 100%;"></img>
