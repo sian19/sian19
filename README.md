@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sean-taron" target="_blank">
 <img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 </a>
+ 
+<a href="https://www.facebook.com/sean.taron.9" target="_blank">
+<img align="center" alt="Sean-Linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
+</a>  
