@@ -48,9 +48,6 @@ Here are some ideas to get you started:
  ## Stats:
  ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=sian19&show_icons=true&theme=merko)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sian19&layout=compact)](https://github.com/sian19/github-readme-stats)
-
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sian19&layout=compact)](https://github.com/sian19/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sian19&langs_count=8)](https://github.com/sian19/github-readme-stats)
 
  
