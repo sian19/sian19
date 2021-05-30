@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <H4 align="center">I am a front end developer and I am looking for constant evolution, to improve my skills in web and mobile programming, where study and practice is the fuel for success :computer:.</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sian19&label=Profile%20views&color=0e75b6&style=flat" alt="sian19" /> </p>
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/sean-taron" target="_blank">
