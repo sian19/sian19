@@ -48,6 +48,7 @@ Here are some ideas to get you started:
  ## Stats:
  ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=sian19&show_icons=true&theme=merko)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sian19&repo=github-readme-stats)](https://github.com/sian19/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sian19&repo=github-readme-stats)](https://github.com/sian19/github-readme-stats)
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sian19&show_icons=true&locale=en&layout=compact" alt="sian19" /></p>
 
  
