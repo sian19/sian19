@@ -47,8 +47,7 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"></img>
  
  ## Stats:
-![sian19's GitHub stats](https://github-readme-stats.vercel.app/api?username=sian19&show_icons=true&theme=merko)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sian19&show_icons=true&locale=en&layout=compact" alt="sian19" /></p>
+![sian19's GitHub stats](https://github-readme-stats.vercel.app/api?username=sian19&show_icons=true&theme=dark)
 
 
 
