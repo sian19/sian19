@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  ## Stats:
  ![sian19's GitHub stats](https://github-readme-stats.vercel.app/api?username=sian19&show_icons=true&theme=merko)
 
- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sian19&show_icons=true&locale=en" alt="sian19" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sian19&show_icons=true&locale=en&layout=compact" alt="sian19" /></p>
 
 
 
