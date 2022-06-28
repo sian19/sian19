@@ -38,6 +38,7 @@ Here are some ideas to get you started:
  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="40" height="37" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="40" style="max-width: 100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" style="max-width: 100%;"></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
  
  ## Interested in:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="40" style="max-width: 100%;"></img>
